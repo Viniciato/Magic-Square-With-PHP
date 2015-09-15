@@ -1,4 +1,4 @@
-<?php require "receive2.php" ?>
+<?php require "receive.php" ?>
 <?php require "layout/_header.php" ?>
 
 
